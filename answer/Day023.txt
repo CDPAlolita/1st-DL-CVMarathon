@@ -1,0 +1,4 @@
+第二十三天作業僅閱讀文章，故無解答。
+
+Object Detection: https://www.youtube.com/watch?v=5e5pjeojznk
+Selective Search: https://blog.gtwang.org/programming/selective-search-for-object-detection/
